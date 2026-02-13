@@ -50,4 +50,33 @@ This structure enables efficient querying, scalable analysis, and a clear separa
 - **Fact_CustomerJourney** → Tracks behavioral journey stages, user actions, and time spent at each stage.  
 - **Fact_ReviewsSentiment** → Contains sentiment scores and sentiment categories **generated after performing sentiment analysis on customer reviews using Python**.
 
+---
+
+## Business Impact
+- Delivered a **data-driven explanation** for declining marketing performance  
+- Enabled **evidence-based campaign optimization**  
+- Supported **more effective marketing budget allocation**  
+- Improved **customer experience monitoring through sentiment intelligence**  
+
+---
+
+## Power BI Dashboard Preview
+The interactive Power BI report consists of **four analytical pages**:
+
+1. **Conversion & ROI Overview**  
+2. **Customer Engagement Analysis**  
+3. **Sentiment & Feedback Insights**  
+4. **Seasonal Trends & Root Cause Analysis**  
+
+> *(Add Power BI dashboard screenshots below to enhance visual understanding of insights.)*
+
+---
+
+## Future Enhancements
+- Predictive modeling for **conversion rate forecasting**  
+- Customer segmentation using **machine learning techniques**  
+- Real-time dashboard integration with live marketing data sources  
+- Automated sentiment monitoring and alerting pipeline  
+
+---
 
