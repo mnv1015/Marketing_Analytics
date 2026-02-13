@@ -97,12 +97,14 @@ These insights enable **targeted marketing optimization and improved ROI plannin
 ## Power BI Dashboard Preview
 The interactive Power BI report consists of **four analytical pages**:
 
-1. **Conversion & ROI Overview**  
-2. **Customer Engagement Analysis**  
-3. **Sentiment & Feedback Insights**  
-4. **Seasonal Trends & Root Cause Analysis**  
-
-> *(Add Power BI dashboard screenshots below to enhance visual understanding of insights.)*
+1. **Overview**  
+   ![screenshot](https://github.com/mnv1015/Marketing_Analytics/blob/main/Assets/Overview.png)
+2. **Conversion Details**  
+   ![screenshot](https://github.com/mnv1015/Marketing_Analytics/blob/main/Assets/Conversion_details.png)
+3. **Social Media Details**  
+   ![screenshot](https://github.com/mnv1015/Marketing_Analytics/blob/main/Assets/SocialMedia_Details.png)
+4. **Customer Review Details**  
+   ![screenshot](https://github.com/mnv1015/Marketing_Analytics/blob/main/Assets/CustomerReview_details.png)
 
 ---
 
