@@ -52,13 +52,6 @@ This structure enables efficient querying, scalable analysis, and a clear separa
 
 ---
 
-## Key Analysis Performed
-- Conversion rate trend analysis across time periods  
-- Customer engagement pattern evaluation  
-- Sentiment classification of customer feedback  
-- Identification of seasonal demand impact  
-- Root cause analysis of declining ROI  
-
 ### Data Cleaning & Transformation
 Raw multi-source marketing and engagement data was extracted using **SQL** and cleaned through:
 
@@ -74,6 +67,13 @@ Sentiment analysis was conducted using **NLTK’s VADER model**, which produced:
 - Aggregated sentiment categories stored in the `Fact_ReviewsSentiment` table for reporting and trend analysis  
 
 ---
+
+## Key Analysis Performed
+- Conversion rate trend analysis across time periods  
+- Customer engagement pattern evaluation  
+- Sentiment classification of customer feedback  
+- Identification of seasonal demand impact  
+- Root cause analysis of declining ROI  
 
 ## Dashboard Insights
 The **Power BI** report revealed that declining conversion rates were primarily driven by:
