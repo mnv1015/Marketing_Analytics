@@ -32,3 +32,22 @@ This project aims to build a comprehensive analytics pipeline that:
 - **SQL** → Data extraction, joins, and cleaning  
 - **Python** → Data processing, sentiment analysis, and trend exploration  
 - **Power BI** → Interactive dashboard, KPIs, and visualization  
+
+---
+
+## Dataset Overview
+The analytics pipeline is powered by a **star schema data model** that integrates customer, product, calendar, and multi-source marketing data.  
+This structure enables efficient querying, scalable analysis, and a clear separation between **dimension** and **fact** tables.
+
+### Dimension Tables
+- **Dim_Customers** → Contains demographic and profile attributes such as age, gender, city, and country.  
+- **Dim_Products** → Includes product catalog details, pricing, and category information.  
+- **Dim_Calendar** → Provides standardized date attributes to support seasonal, monthly, and trend-based analysis.  
+
+### Fact Tables
+- **Fact_CustomerReviews** → Stores raw customer feedback including ratings and textual reviews.  
+- **Fact_EngagementData** → Captures campaign interaction metrics such as views, clicks, and likes.  
+- **Fact_CustomerJourney** → Tracks behavioral journey stages, user actions, and time spent at each stage.  
+- **Fact_ReviewsSentiment** → Contains sentiment scores and sentiment categories **generated after performing sentiment analysis on customer reviews using Python**.
+
+
