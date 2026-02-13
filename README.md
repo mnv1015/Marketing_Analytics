@@ -52,6 +52,40 @@ This structure enables efficient querying, scalable analysis, and a clear separa
 
 ---
 
+## Key Analysis Performed
+- Conversion rate trend analysis across time periods  
+- Customer engagement pattern evaluation  
+- Sentiment classification of customer feedback  
+- Identification of seasonal demand impact  
+- Root cause analysis of declining ROI  
+
+### Data Cleaning & Transformation
+Raw multi-source marketing and engagement data was extracted using **SQL** and cleaned through:
+
+- Handling missing, duplicate, and inconsistent values  
+- Standardizing date formats, categorical fields, and numeric measures  
+- Transforming datasets into a **star schema structure** for scalable analytical querying  
+
+### Sentiment Analysis Methodology
+Customer review data was connected to **Python** using the **pyodbc** database driver.  
+Sentiment analysis was conducted using **NLTK’s VADER model**, which produced:
+
+- Sentiment polarity scores (positive, negative, neutral, compound)  
+- Aggregated sentiment categories stored in the `Fact_ReviewsSentiment` table for reporting and trend analysis  
+
+---
+
+## Dashboard Insights
+The **Power BI** report revealed that declining conversion rates were primarily driven by:
+
+- Seasonal drop in demand during the latter half of the year  
+- Reduced campaign reach and customer engagement  
+- Recurring unresolved customer concerns highlighted through sentiment trends  
+
+These insights enable **targeted marketing optimization and improved ROI planning**.
+
+---
+
 ## Business Impact
 - Delivered a **data-driven explanation** for declining marketing performance  
 - Enabled **evidence-based campaign optimization**  
@@ -77,6 +111,10 @@ The interactive Power BI report consists of **four analytical pages**:
 - Customer segmentation using **machine learning techniques**  
 - Real-time dashboard integration with live marketing data sources  
 - Automated sentiment monitoring and alerting pipeline  
+
+---
+
+
 
 ---
 
