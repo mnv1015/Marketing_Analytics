@@ -102,7 +102,7 @@ The interactive Power BI report consists of **four analytical pages**:
 2. **Conversion Details**  
    ![screenshot](https://github.com/mnv1015/Marketing_Analytics/blob/main/Assets/Conversion_details.png)
 3. **Social Media Details**  
-   ![screenshot](https://github.com/mnv1015/Marketing_Analytics/blob/main/Assets/SocialMedia_Details.png)
+   ![screenshot]([https://github.com/mnv1015/Marketing_Analytics/blob/main/Assets/SocialMedia_Details.png](https://github.com/mnv1015/Marketing_Analytics/blob/main/Assets/social_media_campaign.png))
 4. **Customer Review Details**  
    ![screenshot](https://github.com/mnv1015/Marketing_Analytics/blob/main/Assets/CustomerReview_details.png)
 
